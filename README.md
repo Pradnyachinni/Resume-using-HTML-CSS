@@ -1,4 +1,7 @@
 # Resume-using-HTML-CSS
+
+![resume_icon](https://user-images.githubusercontent.com/55854146/110363665-d5643380-8068-11eb-8e79-43fc216d7ffb.png)
+
 A single-page résumé template done purely with HTML and CSS,
 
 
